@@ -1,11 +1,17 @@
 header {
-    background-color: rgb(5, 196, 196);
+    background-color:#B0BF1A;
     color: black;
     text-align: center;
+    font-size: 25px;
     margin: 0%;
     padding: 0%;
-    
 
+}
+body{
+    background-color:#B0BF1A;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 20px;
 }
 footer{
     background-color: mediumseagreen; 
@@ -17,12 +23,13 @@ footer{
 
 li.item {
     background-color: rgb(221, 245, 184);
-    border: 2px solid black;
+    border: 3px solid #000000;
     margin: 5px 0;
     padding: 5px;
     width: 30%;
     margin-left: auto;
     margin-right: auto;
+    font-size: 18px;
 
 }
 
@@ -31,21 +38,23 @@ textarea[name ="user-input"]{
     margin: 10px auto;
     padding: 30px;
     width: 30%;
+    height: 50px;
     border:1px solid rgb(15, 79, 52);
     margin-left: auto;
     display: block;
     margin-right: auto;
+    font-size: 18px;
        
 }
 button#reset-button{
     background-color: rgb(114, 212, 33);
     color: black;
-    border: none;
-    padding: 20px 60px;
+    padding: 20px 40px;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 18px;
     display: block;
     margin: 1% auto;
+    font-size: 15px;
     
 }
 
