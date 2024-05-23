@@ -1,15 +1,17 @@
 header {
-    background-color: darkcyan;
+    background-color: rgb(5, 196, 196);
     color: black;
     text-align: center;
-    padding: 10px;
+    margin: 0%;
+    padding: 0%;
+    
 
 }
 footer{
     background-color: mediumseagreen; 
     color: black;
     text-align: center;
-    padding: 10px;
+    padding: 7px;
     position: center;
 }
 
@@ -26,9 +28,9 @@ li.item {
 
 textarea[name ="user-input"]{
     
-    margin: 40px auto;
-    padding: 50px;
-    width: 50%;
+    margin: 10px auto;
+    padding: 30px;
+    width: 30%;
     border:1px solid rgb(15, 79, 52);
     margin-left: auto;
     display: block;
@@ -36,14 +38,14 @@ textarea[name ="user-input"]{
        
 }
 button#reset-button{
-    background-color: darkcyan;
-    color: white;
+    background-color: rgb(114, 212, 33);
+    color: black;
     border: none;
     padding: 20px 60px;
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: 10px;
     display: block;
     margin: 1% auto;
-
+    
 }
 
