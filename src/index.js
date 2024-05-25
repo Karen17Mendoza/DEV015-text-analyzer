@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
     wordCountElement.textContent = `Conteo de palabras: ${wordCount}`;
     characterCountElement.textContent = `Conteo de caracteres: ${characterCount}`;
-    charCountExcludingSpacesElement.textContent = `Recuento de caracteres (sin espacios y signos de puntuación): ${charCountExcludingSpaces}`;
+    charCountExcludingSpacesElement.textContent = `Conteo de caracteres (sin espacios y signos de puntuación): ${charCountExcludingSpaces}`;
     numberCountElement.textContent = `Conteo de numeros: ${numberCount}`;       
   });
 });
