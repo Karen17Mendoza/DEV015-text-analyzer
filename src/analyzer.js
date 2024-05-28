@@ -21,6 +21,8 @@ const analyzer = {
   },
   getNumberSum: (text) => {
     //TODO: esta función debe retornar la suma de todos los números que se encuentran en el parámetro `text` de tipo `string`.
+    const numbers = text.match(/\b\d+\b/g) || [];
+    return numbers.reduce((sum,num) => sum + parseInt(num,10),0);
   },
 };
 

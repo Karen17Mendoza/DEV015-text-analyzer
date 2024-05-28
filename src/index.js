@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const characterCountElement = document.querySelector('li[data-testid="character-count"]');
   const charCountExcludingSpacesElement = document.querySelector('li[data-testid="char-count-excluding-spaces"]');
   const numberCountElement = document.querySelector('li[data-testid="number-count"]');
+  const numberSumElement = document.querySelector('li[data-testid="number-sum"]');
 
   textInput.addEventListener('input', () => {
     const text = textInput.value;
@@ -14,12 +15,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const characterCount = analyzer.getCharacterCount(text);
     const charCountExcludingSpaces = analyzer.getCharacterCountExcludingSpaces(text);
     const numberCount = analyzer.getNumberCount(text);
+    const numberSum = analyzer.getNumberSum(text);
+
 
         
     wordCountElement.textContent = `Conteo de palabras: ${wordCount}`;
     characterCountElement.textContent = `Conteo de caracteres: ${characterCount}`;
     charCountExcludingSpacesElement.textContent = `Conteo de caracteres (sin espacios y signos de puntuación): ${charCountExcludingSpaces}`;
-    numberCountElement.textContent = `Conteo de numeros: ${numberCount}`;       
+    numberCountElement.textContent = `Conteo de numeros: ${numberCount}`;     
+    numberSumElement.textContent =   `Suma de numeros: ${numberSum}`;
   });
 });
 
