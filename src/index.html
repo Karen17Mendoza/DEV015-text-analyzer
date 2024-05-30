@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Analizador de texto</title>
   <link rel="stylesheet" href="style.css" />
+  
 </head>
 
 <body>
+
   <header>
     <h1>Analizador de Textos </h1>
+    <p> Bienvenidos! </p>
+    <p> Ingrese el texto que desea analizar.</p>
+            
   </header>
 
   <textarea name ="user-input" rows="10" cols="30" placeholder="Escribe algo aquí..."> </textarea>
@@ -20,19 +23,23 @@
 
     <li class="item" data-testid="word-count">Conteo de palabras: 0 </li>
     <li class="item" data-testid="character-count">Conteo de caracteres: 0 </li>
-    <li class="item" data-testid="char-count-excluding-spaces">Conteo de caracteres (sin espacios y signos de puntuación): 0</li>
-    <li class="item" data-testid="number-count">Conteo de numeros: 0 </li>
+    <li class="item" data-testid="character-no-spaces-count">Conteo de caracteres (sin espacios y signos de puntuación): 0</li>
+    <li class="item" data-testid="number-count">Conteo de números: 0 </li>
     <li class="item" data-testid="number-sum">Suma de números: 0 </li>
-    <li class="item"> </li>
+    <li class="item" data-testid="word-length-average">Longitud media: 0 </li>
 
   </ul>
 
-  <button id ="reset-button"> Limpiar metricas</button>
+  <div>
+    <button id ="reset-button"> Limpiar metricas</button>
+
+  </div>
+  
   
   <script src="index.js" type="module"></script>
 
   <footer>
-    <p>--------------------Autor: Karen Melanie Mendoza Ayala------------------</p>
+    <p>&copy; 2024 Karen Melanie Mendoza Ayala</p>
   </footer>
 </body>
 </html>
