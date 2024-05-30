@@ -13,22 +13,23 @@ const analyzer = {
   },
   getAverageWordLength: (text) => {    
     //TODO: esta función debe retornar la longitud media de palabras que se encuentran en el parámetro `text` de tipo `string`.
-    let words = text.match(/\b\w+\b/g) || [];
-    let totalLength = words.reduce((acc, word) => acc + word.length, 0);
-    let averageLength = totalLength / words.length;
-    let roundedAverageLength = Math.round(averageLength * 100) / 100;
+    const words = text.split(/\s+/).filter(word => word !== '');
+    const totalLength = words.reduce((sum, word) => sum + word.length, 0);
+    const averageLength = totalLength / words.length;
+    const roundedAverageLength = Math.round(averageLength * 100) / 100;
     return roundedAverageLength;
-    },
+
+  },
   getNumberCount: (text) => {
     //TODO: esta función debe retornar cúantos números se encuentran en el parámetro `text` de tipo `string`.
     let count = 0;
     const words = text.split(/\s+/);
 
     for (let i = 0; i < words.length; i++) {
-        const word = words[i];
-        if (!isNaN(word) && word.trim() !== '') {
-            count++;
-        }
+      const word = words[i].replace(/\.$/, ''); // Eliminar el punto final si existe
+      if (/^\d+(\.\d+)?$/.test(word.trim())) {
+        count++;
+      }
     }
     return count;
   },
