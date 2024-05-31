@@ -17,7 +17,6 @@
 
 ## 2. Preámbulo
 
-![Una lupa sobre texto de libro](https://images.app.goo.gl/6Q5U2HhcjywruorJ7)
 
 _Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 _en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
