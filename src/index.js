@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const roundedAverageLengthElement = document.querySelector('li[data-testid="word-length-average"]');
   const resetButton = document.getElementById('reset-button');
 
-  textInput.addEventListener('input', () => {
+  function updateCounts() {
     const text = textInput.value;
     const wordCount = analyzer.getWordCount(text);
     const characterCount = analyzer.getCharacterCount(text);
@@ -27,17 +27,15 @@ document.addEventListener('DOMContentLoaded', () => {
     numberSumElement.textContent =   `Suma de numeros: ${numberSum}`;
     roundedAverageLengthElement.textContent = `Longitud media: ${roundedAverageLength}`;
         
-  });
+  }
+  textInput.addEventListener('input',updateCounts);
+
   resetButton.addEventListener('click', () => {
     textInput.value = '';
-    textInput.placeholder = 'Escribe algo aquí...';
-    wordCountElement.textContent = 'Conteo de palabras: 0';
-    characterCountElement.textContent = 'Conteo de caracteres: 0';
-    charCountExcludingSpacesElement.textContent = 'Conteo de caracteres (sin espacios y signos de puntuación): 0';
-    numberCountElement.textContent = 'Conteo de números: 0';
-    numberSumElement.textContent = 'Suma de números: 0';
-    roundedAverageLengthElement.textContent = 'Longitud media: 0';
+    updateCounts();
+;
   });
+  resetButton.click();
 
 
 });
