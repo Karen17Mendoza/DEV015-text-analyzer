@@ -6,24 +6,14 @@
 * [2. Preámbulo](#2-preámbulo)
 * [3. Resumen del proyecto](#3-resumen-del-proyecto)
 * [4. Funcionalidades](#4-funcionalidades)
-* [5. Boilerplate](#5-boilerplate)
-* [6. Criterios de aceptación mínimos del proyecto](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [7. Pruebas](#7-pruebas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Consideraciones para pedir tu Project Feedback](#9-consideraciones-para-pedir-tu-project-feedback)
-* [10. Objetivos de aprendizaje](#10-objetivos-de-aprendizaje)
-* [11. Funcionalidades opcionales](#11-funcionalidades-opcionales)
 
 ***
 
 ## 1. Consideraciones generales
 
-* Este proyecto lo resolvemos de manera **individual**.
-* El rango de tiempo estimado para completar el proyecto es de 2 a 4 Sprints.
-* Enfócate en aprender y no solamente en "completar" el proyecto.
-* Te sugerimos que no intentes saberlo todo antes de empezar a codear.
-  No te preocupes demasiado ahora por lo que _todavía_ no entiendas.
-  Irás aprendiendo.
+* Este proyecto lo resolvi de manera **individual**.
+* El rango de tiempo estimado que me llevo a culminar el proyecto fueron de 3 Sprints .
+* Mi enfoque principal fue aprender mas que en terminar el proyecto.
 
 ## 2. Preámbulo
 
