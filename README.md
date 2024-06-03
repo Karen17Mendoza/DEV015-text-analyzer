@@ -8,6 +8,7 @@
 * [4. Funcionalidades](#4-funcionalidades)
 * [5. Tecnologías usadas](#4-tecnologías-usadas)
 * [6. Boilerplate](#4-boilerplate)
+* [7. Planificación](#4-planificación)
 
 ***
 
@@ -41,7 +42,8 @@ En este proyecto se utilizó las herramientas de HTML,CSS y JavaScript.
 
 * Recuento de palabras: Calcula el número de palabras en el texto ingresado.
 * Recuento de caracteres: Calcula el número de cacteres en el texto ingresado.
-* Recuento de caracteres excluyendo espacios y signos de puntuación: Calcula el número de caracteres excluyendo espacios y signos de puntuacion en el texto ingresado.
+* Recuento de caracteres excluyendo espacios y signos de puntuación: Calcula el
+  número de caracteres excluyendo espacios y signos de puntuacion en el texto ingresado.
 * Recuento de números: Calcula el número de números en el texto ingresado.
 * Suma total de números: Suma todos los números presentes en el texto.
 * Longitud media de las palabras: Calcula la longitud media de las palabras en el texto.
@@ -49,22 +51,16 @@ En este proyecto se utilizó las herramientas de HTML,CSS y JavaScript.
 
 ## 5. Tecnologías usadas
 
-HTML5: Para la estructura de la página.
-CSS3: Para el estilo y diseño de la página.
-JavaScript: Para la lógica de análisis de texto.
+* HTML5: Para la estructura de la página.
+* CSS3: Para el estilo y diseño de la página.
+* JavaScript: Para la lógica de análisis de texto.
 
 ## 6. Boilerplate
 
-La lógica del proyecto debe estar implementada completamente en JavaScript. En
-este proyecto NO está permitido usar librerías o frameworks, solo JavaScript
-puro también conocido como Vanilla JavaScript.
+El proyecto esta implementada completamente en JavaScript. En este pryecto no
+se usan librereias ni framworks, solo JavaScript mas conocido como Vanilla JavaSxript.
 
-Para comenzar este proyecto tendrás que hacer un _fork_ y _clonar_ este
-repositorio que contiene un _boilerplate_ con tests (pruebas). Un _boilerplate_
-es la estructura básica de un proyecto que sirve como un punto de partida con
-archivos y configuración inicial de dependencias y tests.
-
-El boilerplate que les damos contiene esta estructura:
+El boilerplate contiene esta estructura:
 
 ```text
 ./
@@ -84,4 +80,12 @@ El boilerplate que les damos contiene esta estructura:
     └── analyzer.spec.js
 ```
 
+## 7. Planificación
+![Captura3](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/de2b0f32-154d-4686-a3d2-f9f1159e435f)
 
+ Para la planificacion del proyecto se utilizó Projects de Git Hub. Projects
+ permitió hacer un buen seguimiento y planificacion del trabajo de forma muy 
+ adaptable y flexible.
+ La planificacion del proyecto se realizó organizanco las actividades por Sprints,
+ identificando el orden de prioridad.
+ 
