@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Consideraciones generales](#1-consideraciones-generales)
-* [2. Preámbulo](#2-preámbulo)
+* [2. Descripción](#2-descripción)
 * [3. Resumen del proyecto](#3-resumen-del-proyecto)
 * [4. Funcionalidades](#4-funcionalidades)
 
@@ -15,36 +15,25 @@
 * El rango de tiempo estimado que me llevo a culminar el proyecto fueron de 3 Sprints .
 * Mi enfoque principal fue aprender mas que en terminar el proyecto.
 
-## 2. Preámbulo
+## 2. Descripcion
 
+Bienvenido al proyecto Text Analyzer, una herramienta intuitiva y eficiente 
+diseñada para proporcionar un análisis detallado del texto ingresado por el 
+usuario.
+Text Analyzer permite a los usuarios obtener información útil sobre el texto 
+ingresado, incluyendo el conteo de palabras, números, la suma de los números 
+presentes en el texto, y la longitud media de las palabras, todo en tiempo 
+real. Además, incluye una funcionalidad de reinicio que permite limpiar el 
+contenido del área de texto y restablecer todos los contadores, facilitando 
+un nuevo análisis desde cero.
 
-_Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-_en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-
-Un analizador de texto es una aplicación para extraer información útil de un
-texto utilizando diversas técnicas, como el procesamiento del lenguaje
-natural (NLP), el aprendizaje automático (ML) y el análisis estadístico.
-Estas aplicaciones pueden proporcionar una variedad de métricas que brindan
-información básica sobre la longitud y la estructura del texto como por
-ejemplo, el conteo de palabras, el conteo de caracteres, el conteo de
-oraciones y el conteo de párrafos. Otras métricas incluyen el análisis
-de sentimientos, que utiliza técnicas de NLP para determinar el tono
-general positivo, negativo o neutral del texto, y el análisis de
-legibilidad, que utiliza algoritmos para evaluar la complejidad y la
-legibilidad del texto.
-
-En general, las aplicaciones de análisis de texto brindan información
-valiosa y métricas sobre los textos que pueden ayudar a las usuarias a
-tomar decisiones informadas y sacar conclusiones significativas.
-Mediante el uso de estas herramientas de análisis, las usuarias pueden
-obtener una comprensión más profunda de los textos.
 
 ## 3. Resumen del proyecto
 
-En este proyecto crearás una aplicación web que servirá para que tu usuaria
-pueda analizar un texto en el navegador mostrando una serie de indicadores y
-métricas específicas sobre caracteres, letras, números, etc. Que hayan sido
-enviadas como _input_ por ella. Lo harás utilizando HTML, CSS y JavaScript.
+El proyecto es la creacion de una aplicacion web que sirve para que la usuaria
+analice un texto en el navegador mostrandole una serie de indicaciones y metricas
+especificas como caracteres, letras,números,etc.
+En este proyecto se utilizó las herramientas de HTML,CSS y JavaScript.
 
 ## 4. Funcionalidades
 
