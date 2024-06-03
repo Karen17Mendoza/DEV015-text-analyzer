@@ -20,6 +20,8 @@
 Bienvenido al proyecto Text Analyzer, una herramienta intuitiva y eficiente 
 diseñada para proporcionar un análisis detallado del texto ingresado por el 
 usuario.
+![Analizador de Textos](Captura1.png)
+
 Text Analyzer permite a los usuarios obtener información útil sobre el texto 
 ingresado, incluyendo el conteo de palabras, números, la suma de los números 
 presentes en el texto, y la longitud media de las palabras, todo en tiempo 
