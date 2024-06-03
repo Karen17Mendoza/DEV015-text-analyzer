@@ -20,6 +20,9 @@
 Bienvenido al proyecto Text Analyzer, una herramienta intuitiva y eficiente 
 diseñada para proporcionar un análisis detallado del texto ingresado por el 
 usuario.
+![Captura1](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/fbddab1b-aa09-4ecd-8cbf-f35548b4a95b)
+
+![](http://url/to/img.png)
 ![Analizador de Textos](Captura1.png)
 
 Text Analyzer permite a los usuarios obtener información útil sobre el texto 
