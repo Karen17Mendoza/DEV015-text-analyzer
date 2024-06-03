@@ -30,7 +30,6 @@ presentes en el texto, y la longitud media de las palabras, todo en tiempo
 real. Además, incluye una funcionalidad de reinicio que permite limpiar el 
 contenido del área de texto y restablecer todos los contadores, facilitando 
 un nuevo análisis desde cero.
-![Analizador de Textos1](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/fbddab1b-aa09-4ecd-8cbf-f35548b4a95b)
 
 ## 3. Resumen del proyecto
 
@@ -88,6 +87,7 @@ El boilerplate contiene esta estructura:
  adaptable y flexible.
  La planificacion del proyecto se realizó organizanco las actividades por Sprints,
  identificando el orden de prioridad.
+ 
  ![Captura3](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/de2b0f32-154d-4686-a3d2-f9f1159e435f)
 
 ## 8. Prototipo
@@ -95,9 +95,21 @@ El boilerplate contiene esta estructura:
 Para la realizacion del prototipo se utilizó la herramienta Figma, donde se plasmó
 las ideas iniciales de como se veria la página web, luego se fueron modificando algunos detalles 
 hasta culminar con la estructura y combinacion de colores finales.
+
 ![Captur2](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/0f12ae1d-6dda-40da-87ac-b95402a13856)
 
+## 9. Conclusiones
 
+El proyecto final es una herramienta web interactiva diseñada para proporcionar un
+análisis detallado del texto ingresado por el usuario. Este proyecto está construido utilizando 
+tecnologías web fundamentales como HTML, CSS y JavaScript. Ofrece funcionalidades clave como 
+el conteo de palabras, números, la suma de los números presentes en el texto, y la longitud media 
+de las palabras, todo en tiempo real. Además, incluye un botón de reinicio que permite limpiar 
+el contenido del área de texto y restablecer todos los contadores.
+El proyecto combina facilidad de uso, interactividad en tiempo real, y una estructura modular 
+lo que permite futuras mejoras y colaboraciones.
+
+![Analizador de Textos1](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/fbddab1b-aa09-4ecd-8cbf-f35548b4a95b)
 
 
  
