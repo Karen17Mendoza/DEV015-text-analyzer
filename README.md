@@ -6,9 +6,10 @@
 * [2. Descripción](#2-descripción)
 * [3. Resumen del proyecto](#3-resumen-del-proyecto)
 * [4. Funcionalidades](#4-funcionalidades)
-* [5. Tecnologías usadas](#4-tecnologías-usadas)
-* [6. Boilerplate](#4-boilerplate)
-* [7. Planificación](#4-planificación)
+* [5. Tecnologías usadas](#5-tecnologías-usadas)
+* [6. Boilerplate](#6-boilerplate)
+* [7. Planificación](#7-planificación)
+* [8. Planificación](#8-prototipo)
 
 ***
 
@@ -33,7 +34,7 @@ un nuevo análisis desde cero.
 
 ## 3. Resumen del proyecto
 
-El proyecto es la creacion de una aplicacion web que sirve para que la usuaria
+El proyecto es la creacion de una página web que sirve para que la usuaria
 analice un texto en el navegador mostrandole una serie de indicaciones y metricas
 especificas como caracteres, letras,números,etc.
 En este proyecto se utilizó las herramientas de HTML,CSS y JavaScript.
@@ -81,11 +82,22 @@ El boilerplate contiene esta estructura:
 ```
 
 ## 7. Planificación
-![Captura3](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/de2b0f32-154d-4686-a3d2-f9f1159e435f)
 
  Para la planificacion del proyecto se utilizó Projects de Git Hub. Projects
  permitió hacer un buen seguimiento y planificacion del trabajo de forma muy 
  adaptable y flexible.
  La planificacion del proyecto se realizó organizanco las actividades por Sprints,
  identificando el orden de prioridad.
+ ![Captura3](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/de2b0f32-154d-4686-a3d2-f9f1159e435f)
+
+## 8. Prototipo
+
+Para la realizacion del prototipo se utilizó la herramienta Figma, donde se plasmó
+las ideas iniciales de como se veria la página web, luego se fueron modificando algunos detalles 
+hasta culminar con la estructura y combinacion de colores finales.
+![Captur2](https://github.com/Karen17Mendoza/DEV015-text-analyzer/assets/163893381/0f12ae1d-6dda-40da-87ac-b95402a13856)
+
+
+
+
  
