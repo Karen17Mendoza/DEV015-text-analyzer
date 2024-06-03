@@ -39,13 +39,13 @@ En este proyecto se utilizó las herramientas de HTML,CSS y JavaScript.
 
 ## 4. Funcionalidades
 
-Recuento de palabras: Calcula el número de palabras en el texto ingresado.
-Recuento de caracteres: Calcula el número de cacteres en el texto ingresado.
-Recuento de caracteres excluyendo espacios y signos de puntuación: Calcula el número de caracteres excluyendo espacios y signos de puntuacion en el texto ingresado.
-Recuento de números: Calcula el número de números en el texto ingresado.
-Suma total de números: Suma todos los números presentes en el texto.
-Longitud media de las palabras: Calcula la longitud media de las palabras en el texto.
-Botón de reinicio: Permite limpiar el contenido del área de texto y reiniciar todos los contadores.
+* Recuento de palabras: Calcula el número de palabras en el texto ingresado.
+* Recuento de caracteres: Calcula el número de cacteres en el texto ingresado.
+* Recuento de caracteres excluyendo espacios y signos de puntuación: Calcula el número de caracteres excluyendo espacios y signos de puntuacion en el texto ingresado.
+* Recuento de números: Calcula el número de números en el texto ingresado.
+* Suma total de números: Suma todos los números presentes en el texto.
+* Longitud media de las palabras: Calcula la longitud media de las palabras en el texto.
+* Botón de reinicio: Permite limpiar el contenido del área de texto y reiniciar todos los contadores.
 
 ## 5. Tecnologías usadas
 
