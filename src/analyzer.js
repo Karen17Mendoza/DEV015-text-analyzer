@@ -4,9 +4,9 @@ const analyzer = {
     const words = text.split(/\s+/);
     let count = 0;
     for (let i = 0; i < words.length; i++) {
-        if (isNaN(words[i]) && words[i].trim() !== '') {
-            count++;
-        }
+      if (isNaN(words[i]) && words[i].trim() !== '') {
+        count++;
+      }
     }
     return count;
   },
