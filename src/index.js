@@ -33,7 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
   resetButton.addEventListener('click', () => {
     textInput.value = '';
     updateCounts();
-;
   });
   resetButton.click();
 
